@@ -1,0 +1,13 @@
+﻿---
+AlignConsecutiveAssignments: "true"
+AlignConsecutiveDeclarations: "true"
+AlignOperands: "true"
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: "false"
+BreakBeforeBraces: Allman
+Language: Cpp
+NamespaceIndentation: All
+PointerAlignment: Left
+SortIncludes: "true"
+IndentWidth: 4
